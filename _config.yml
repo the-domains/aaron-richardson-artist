@@ -1,14 +1,26 @@
-layout_spectrum: 1
 color:
   saturation: 0.2405264
-  lightness: 0.4027172
   brandStrength: 0.3064516
+  rhythmicContrast: 0.7323505
   brandColors:
     - '#7F7841'
     - '#1F1816'
     - '#3B406E'
     - '#9AABBE'
     - '#65779A'
-  rhythmicContrast: 0.7323505
+  lightness: 0.4027172
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 1
 typography_spectrum: 0.3243781
 name: Aaron Richardson artist
