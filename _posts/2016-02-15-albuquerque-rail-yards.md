@@ -1,14 +1,15 @@
 ---
 description: Albuquerque Rail Yards
 author: []
-datePublished: '2016-02-15T21:22:14.094Z'
+datePublished: '2016-02-16T02:49:02.598Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: 'Albuquerque Rail Yards '
-dateModified: '2016-02-15T21:21:03.978Z'
+dateModified: '2016-02-16T02:47:05.077Z'
 sourcePath: _posts/2016-02-15-albuquerque-rail-yards.md
 published: true
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
@@ -17,4 +18,4 @@ _context: 'http://schema.org'
 _type: Article
 
 ---
-# Albuquerque Rail Yards
+# Albuquerque Rail Yards ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2f62c51c-c7f1-431a-bba8-1e380428b1b9.png)
