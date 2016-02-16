@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Aaron Richardson artist]]></title>
         <description><![CDATA[Aaron Richardson artist]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aaron-richardson-artist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 21:22:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 16 Feb 2016 02:54:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aaron-richardson-artist/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Albuquerque Rail Yards ]]></title>
-            <description><![CDATA[<article><h1>Albuquerque Rail Yards </h1><p>Albuquerque Rail Yards</p></article>]]></description>
-            <link>undefinedalbuquerque-rail-yards/index.html</link>
+            <description><![CDATA[<article><h1>Albuquerque Rail Yards </h1><p>Albuquerque Rail Yards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/77699b0864f1b9c4c01aa943f6dc6cca460d5426.png"></article>]]></description>
+            <link>https://thegrid.ai/aaron-richardson-artist/albuquerque-rail-yards/index.html</link>
             <guid isPermaLink="false">4636731f-056d-4874-87c6-d35fbd6f54d3</guid>
-            <pubDate>Mon, 15 Feb 2016 21:22:14 GMT</pubDate>
+            <pubDate>Tue, 16 Feb 2016 02:49:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
